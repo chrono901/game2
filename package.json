@@ -1,0 +1,18 @@
+{
+    
+"name": "Jimbo-FunHouse",
+    
+"version": "0.0.1",
+    
+"description": "A mixed of Jackbox and Text Adventure creating a party based encounters for groups of people :)",
+    
+"dependencies": {
+    
+    
+"express": "^4.15.2",
+    
+    
+"socket.io": "^3.0.4"
+    
+}
+}
